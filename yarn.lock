@@ -206,10 +206,10 @@ ask-sdk-core@2.0.*:
   resolved "https://registry.yarnpkg.com/ask-sdk-core/-/ask-sdk-core-2.0.10.tgz#8fd07c39ea267bebafd2dfb5f47202ebef8d71d3"
   integrity sha512-F3Sy7POfWV5sj1blRIwg9NCXePeN3jpYrlTEPOG69GqoJrn9foF4NwTmjA5DgyzYaXO62QKNY2mUAO5SkFWZWA==
 
-ask-sdk-model@1.4.*:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/ask-sdk-model/-/ask-sdk-model-1.4.1.tgz#cbc3e071ac720336ee289dd0a57e6bbdf5c9d0f9"
-  integrity sha512-pwpaavszEATrEtVEQSxYgDXj8kkkMh7rQzlIyOsSRdSI/mTJEk9Xb5mPkZw2QTCYsyVWxynWcw07uL6Wehpmmg==
+ask-sdk-model@1.33.*:
+  version "1.33.1"
+  resolved "https://registry.yarnpkg.com/ask-sdk-model/-/ask-sdk-model-1.33.1.tgz#f7b68f6a67ca5ca64bfedb89030ebe39051cf371"
+  integrity sha512-IvIycPgxqYZ+/RD8tx8nEf4el7eQzLkWu9RmLEB1lozUztLCOtd+vd1SgnnQuYyR5XkUBdVPtlXsL/T0XyD8zg==
 
 astral-regex@^1.0.0:
   version "1.0.0"
